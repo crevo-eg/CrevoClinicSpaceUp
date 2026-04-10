@@ -1,10 +1,6 @@
-xml version=1.0 encoding=UTF-8
-item
-    version1.0.1.0version 
-    
-    urlhttpsgithub.comYourUsernameCrevoReleasesrawmainUpdate.zipurl
-    
-    changeloghttpsgithub.comYourUsernameCrevoReleasesblobmainchangelog.mdchangelog
-    
-    mandatoryfalsemandatory
-item
+<item>
+    <version>1.0.1.0</version>
+    <url>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/Update.zip</url>
+    <mandatory mode="1">true</mandatory> 
+    <mandatory minVersion="1.0.0.0">true</mandatory>
+</item>
