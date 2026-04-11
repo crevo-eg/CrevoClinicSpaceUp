@@ -3,4 +3,5 @@
     <url>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/Update.zip</url>
     <mandatory>false</mandatory> 
     <mandatory minVersion="1.0.0.0">true</mandatory>
+    <changelog>https://github.com/crevo-eg/CrevoClinicSpaceUp/main/changelog.md</changelog>
 </item>
