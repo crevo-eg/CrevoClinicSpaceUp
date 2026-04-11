@@ -1,11 +1,7 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1.0</version>
-    
+    <version>1.0.0.2</version>
     <url>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/Update.zip</url>
-    
-    <mandatory minVersion="1.0.0.0">true</mandatory>
-    
-<changelog>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/changelog.md</changelog>
+    <mandatory>false</mandatory>
+    <changelog>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/changelog.md</changelog>
 </item>
