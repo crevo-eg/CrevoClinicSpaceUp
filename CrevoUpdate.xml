@@ -2,6 +2,5 @@
 <item>
     <version>3.0.1.0</version>
     <url>https://n8n.crevo-eg.com/Update.zip</url>
-    <mandatory mode="1">true</mandatory>
     <changelog>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/changelog.md</changelog>
 </item>
