@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>4.0.0.4</version>
-    <url>https://n8n.crevo-eg.com/upd.xml.zip</url>
+    <url>https://n8n.crevo-eg.com/upd.zip</url>
     <mandatory>false</mandatory>
     <changelog>https://raw.githubusercontent.com/crevo-eg/CrevoClinicSpaceUp/main/changelog.md</changelog>
 </item>
